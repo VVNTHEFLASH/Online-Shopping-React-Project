@@ -1,0 +1,123 @@
+
+[
+    {
+        "name": "Pen",
+        "type": "stationary",
+        "imgUrl": "",
+        "price": 10
+    },
+    {
+        "name": "Pencil",
+        "type": "stationary",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "A4 Paper(Bundle)",
+        "type": "stationary",
+        "imgUrl": "",
+        "price": 255
+    },
+    {
+        "name": "Glue",
+        "type": "stationary",
+        "imgUrl": "",
+        "price": 20
+    },
+    {
+        "name": "Writing Pad",
+        "type": "stationary",
+        "imgUrl": "",
+        "price": 45
+    },
+    {
+        "name": "Milk",
+        "type": "groceries",
+        "imgUrl": "",
+        "price": 30
+    },
+    {
+        "name": "Egg",
+        "type": "groceries",
+        "imgUrl": "",
+        "price": 6
+    },
+    {
+        "name": "Cheese",
+        "type": "groceries",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "Butter",
+        "type": "groceries",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "Paneer(200gm)",
+        "type": "groceries",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "Butter Biscuit",
+        "type": "snacks",
+        "imgUrl": "",
+        "price": 20
+    },
+    {
+        "name": "Good Day",
+        "type": "snacks",
+        "imgUrl": "",
+        "price": 10
+    },
+    {
+        "name": "Lays",
+        "type": "snacks",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "Dairy Milk",
+        "type": "snacks",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "5 Star",
+        "type": "snacks",
+        "imgUrl": "",
+        "price": 5
+    },
+    {
+        "name": "Badminton Racket",
+        "type": "sports",
+        "imgUrl": "",
+        "price": 999
+    },
+    {
+        "name": "Shuttle Cork",
+        "type": "sports",
+        "imgUrl": "",
+        "price": 349
+    },
+    {
+        "name": "Tennis Ball",
+        "type": "sports",
+        "imgUrl": "",
+        "price": 49
+    },
+    {
+        "name": "Football",
+        "type": "sports",
+        "imgUrl": "",
+        "price": 499
+    },
+    {
+        "name": "Football Boot",
+        "type": "sports",
+        "imgUrl": "",
+        "price": 679
+    }
+]

@@ -1,0 +1,12 @@
+.body-grid{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.products{
+    display: flex;
+    justify-content: center;
+}
+.filters{
+    display: flex;
+    justify-content: center;
+}
