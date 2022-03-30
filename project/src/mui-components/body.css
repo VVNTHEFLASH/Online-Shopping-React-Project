@@ -2,11 +2,55 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
-.products{
+.product-head{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 .filters{
     display: flex;
     justify-content: center;
+}
+.renderedProducts{
+    margin: 20px;
+}
+.Card{
+    box-shadow: 0 0 2px grey;
+    width: 200px;
+}
+.Card-Media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: max-content;
+    width: max-content;
+    background-color: white;
+}
+.Card-Media>img{
+    height: 150px;
+    width: 200px;
+}
+.Card-Content{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 1fr;
+    grid-row-gap: 10px;
+}
+.Card-Content{
+
+}
+.Card-Footer{
+    display: flex;
+}
+.Card-Footer>button{
+    background: tomato;
+    padding: 7px 10px;
+    color: #fff;
+    font-weight: bold;
+    width: 100%;
+    border: none;
+}
+.Card-Footer>button:hover{
+    background-color: rgb(240, 133, 114);
 }
