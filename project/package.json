@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "0.1.0",
-  "homepage": "si.io",
+  "homepage": "https://vvntheflash.github.io/Online-Shopping-React-Project/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
