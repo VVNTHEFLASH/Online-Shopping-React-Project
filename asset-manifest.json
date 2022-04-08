@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/si.io/static/css/main.7c4650e8.css",
+    "main.js": "/si.io/static/js/main.dafa9027.js",
+    "index.html": "/si.io/index.html",
+    "main.7c4650e8.css.map": "/si.io/static/css/main.7c4650e8.css.map",
+    "main.dafa9027.js.map": "/si.io/static/js/main.dafa9027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4650e8.css",
+    "static/js/main.dafa9027.js"
+  ]
+}
