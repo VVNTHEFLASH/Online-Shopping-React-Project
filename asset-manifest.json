@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/si.io/static/css/main.7c4650e8.css",
-    "main.js": "/si.io/static/js/main.dafa9027.js",
-    "index.html": "/si.io/index.html",
-    "main.7c4650e8.css.map": "/si.io/static/css/main.7c4650e8.css.map",
-    "main.dafa9027.js.map": "/si.io/static/js/main.dafa9027.js.map"
+    "main.css": "/Online-Shopping-React-Project/static/css/main.7c4650e8.css",
+    "main.js": "/Online-Shopping-React-Project/static/js/main.dafa9027.js",
+    "index.html": "/Online-Shopping-React-Project/index.html",
+    "main.7c4650e8.css.map": "/Online-Shopping-React-Project/static/css/main.7c4650e8.css.map",
+    "main.dafa9027.js.map": "/Online-Shopping-React-Project/static/js/main.dafa9027.js.map"
   },
   "entrypoints": [
     "static/css/main.7c4650e8.css",
